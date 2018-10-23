@@ -19,7 +19,7 @@
 package eventemitter_test
 
 import (
-	"github.com/Loopring/relay-lib/eventemitter"
+	"github.com/expanse-org/relay-lib/eventemitter"
 	"testing"
 	"time"
 )

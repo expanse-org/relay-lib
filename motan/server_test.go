@@ -21,8 +21,8 @@ package motan_test
 import (
 	"bytes"
 	"fmt"
-	"github.com/Loopring/relay-lib/motan"
-	"github.com/Loopring/relay-lib/motan/demo"
+	"github.com/expanse-org/relay-lib/motan"
+	"github.com/expanse-org/relay-lib/motan/demo"
 	"testing"
 	"time"
 )

@@ -20,8 +20,8 @@ package matrix_test
 
 import (
 	"encoding/json"
-	"github.com/Loopring/relay-lib/broadcast/matrix"
-	"github.com/Loopring/relay-lib/log"
+	"github.com/expanse-org/relay-lib/broadcast/matrix"
+	"github.com/expanse-org/relay-lib/log"
 	"go.uber.org/zap"
 	"testing"
 )

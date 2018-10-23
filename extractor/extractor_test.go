@@ -20,8 +20,8 @@ package extractor_test
 
 import (
 	"encoding/json"
-	"github.com/Loopring/relay-lib/eventemitter"
-	"github.com/Loopring/relay-lib/types"
+	"github.com/expanse-org/relay-lib/eventemitter"
+	"github.com/expanse-org/relay-lib/types"
 	"math/big"
 	"testing"
 )

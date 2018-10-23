@@ -20,12 +20,12 @@ package marketcap_test
 
 import (
 	"encoding/json"
-	"github.com/Loopring/relay-lib/cache"
-	"github.com/Loopring/relay-lib/cache/redis"
-	"github.com/Loopring/relay-lib/log"
-	"github.com/Loopring/relay-lib/marketcap"
-	"github.com/Loopring/relay-lib/marketutil"
-	"github.com/Loopring/relay-lib/zklock"
+	"github.com/expanse-org/relay-lib/cache"
+	"github.com/expanse-org/relay-lib/cache/redis"
+	"github.com/expanse-org/relay-lib/log"
+	"github.com/expanse-org/relay-lib/marketcap"
+	"github.com/expanse-org/relay-lib/marketutil"
+	"github.com/expanse-org/relay-lib/zklock"
 	"github.com/ethereum/go-ethereum/common"
 	"go.uber.org/zap"
 	"math/big"
@@ -61,7 +61,7 @@ func init() {
 	cache.NewCache(redis.RedisOptions{Host: "127.0.0.1", Port: "6379"})
 
 	options := marketutil.MarketOptions{}
-	options.TokenFile = "/Users/yuhongyu/Desktop/service/go/src/github.com/Loopring/miner/config/tokens.json"
+	options.TokenFile = "/Users/yuhongyu/Desktop/service/go/src/github.com/expanse-org/miner/config/tokens.json"
 	marketutil.Initialize(&options)
 
 	zkconfig := zklock.ZkLockConfig{}

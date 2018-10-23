@@ -20,7 +20,7 @@ package kafka_test
 
 import (
 	"fmt"
-	"github.com/Loopring/relay-lib/kafka"
+	"github.com/expanse-org/relay-lib/kafka"
 	"strings"
 	"testing"
 	"time"

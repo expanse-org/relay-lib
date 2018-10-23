@@ -20,7 +20,7 @@ package cloudwatch_test
 
 import (
 	"fmt"
-	"github.com/Loopring/relay-lib/cloudwatch"
+	"github.com/expanse-org/relay-lib/cloudwatch"
 	"testing"
 	"time"
 )

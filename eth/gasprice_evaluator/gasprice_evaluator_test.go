@@ -20,12 +20,12 @@ package gasprice_evaluator_test
 
 import (
 	"encoding/json"
-	"github.com/Loopring/relay-lib/cache"
-	"github.com/Loopring/relay-lib/cache/redis"
-	"github.com/Loopring/relay-lib/eth/accessor"
-	"github.com/Loopring/relay-lib/eth/gasprice_evaluator"
-	"github.com/Loopring/relay-lib/log"
-	"github.com/Loopring/relay-lib/zklock"
+	"github.com/expanse-org/relay-lib/cache"
+	"github.com/expanse-org/relay-lib/cache/redis"
+	"github.com/expanse-org/relay-lib/eth/accessor"
+	"github.com/expanse-org/relay-lib/eth/gasprice_evaluator"
+	"github.com/expanse-org/relay-lib/log"
+	"github.com/expanse-org/relay-lib/zklock"
 	"go.uber.org/zap"
 	"math/big"
 	"testing"

@@ -4,91 +4,91 @@
 	"package": [
 		{
 			"checksumSHA1": "Zr9xrnXrUilJ8jmpELzYX6B+U7o=",
-			"path": "github.com/Loopring/motan-go",
+			"path": "github.com/expanse-org/motan-go",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "Km3VVgNIGr6XnBwRXVMJff3MLgY=",
-			"path": "github.com/Loopring/motan-go/cluster",
+			"path": "github.com/expanse-org/motan-go/cluster",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "tQyJp86qNbUC42O45iGzhi3Sfas=",
-			"path": "github.com/Loopring/motan-go/config",
+			"path": "github.com/expanse-org/motan-go/config",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "Cwl0S1t7hP7Ht2t3tEIEMC3gyZQ=",
-			"path": "github.com/Loopring/motan-go/core",
+			"path": "github.com/expanse-org/motan-go/core",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "aKDRba8vXcM4pZfHRG5ljhI65AI=",
-			"path": "github.com/Loopring/motan-go/endpoint",
+			"path": "github.com/expanse-org/motan-go/endpoint",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "Ixmz9PRhKcCjUaJsrd7wgXCtlYA=",
-			"path": "github.com/Loopring/motan-go/filter",
+			"path": "github.com/expanse-org/motan-go/filter",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "tQ2w8WONF4kxDdVTm1hQwIpez2M=",
-			"path": "github.com/Loopring/motan-go/ha",
+			"path": "github.com/expanse-org/motan-go/ha",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "W2YWnQMojgx60XAd/DfhW0o+svg=",
-			"path": "github.com/Loopring/motan-go/lb",
+			"path": "github.com/expanse-org/motan-go/lb",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "fW9W5se5LRTO9E259tQUUBFRpnQ=",
-			"path": "github.com/Loopring/motan-go/log",
+			"path": "github.com/expanse-org/motan-go/log",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "6JTReUzVBniuoqphlfePYCuO4x4=",
-			"path": "github.com/Loopring/motan-go/metrics",
+			"path": "github.com/expanse-org/motan-go/metrics",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "5TZALxWb+ZYXrUFCnR6Uf+CGvTc=",
-			"path": "github.com/Loopring/motan-go/protocol",
+			"path": "github.com/expanse-org/motan-go/protocol",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "8Ag9SilEVl4Ua22ok0FngbCp82I=",
-			"path": "github.com/Loopring/motan-go/provider",
+			"path": "github.com/expanse-org/motan-go/provider",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "M7z4fUZgMUW1+wT+cdCGA2r5oD0=",
-			"path": "github.com/Loopring/motan-go/registry",
+			"path": "github.com/expanse-org/motan-go/registry",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "GPyqjx2UTRqWlMuB13ICfAoBXpg=",
-			"path": "github.com/Loopring/motan-go/serialize",
+			"path": "github.com/expanse-org/motan-go/serialize",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
 		{
 			"checksumSHA1": "XeGQc4PBuYuP2tlSVltzdjDkJa4=",
-			"path": "github.com/Loopring/motan-go/server",
+			"path": "github.com/expanse-org/motan-go/server",
 			"revision": "ae485a87d1b69346e3176829961c98318daf8bdc",
 			"revisionTime": "2018-05-24T12:43:57Z"
 		},
@@ -1224,5 +1224,5 @@
 			"revisionTime": "2016-11-30T20:14:28Z"
 		}
 	],
-	"rootPath": "github.com/Loopring/relay-lib"
+	"rootPath": "github.com/expanse-org/relay-lib"
 }

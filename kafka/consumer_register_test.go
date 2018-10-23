@@ -21,8 +21,8 @@ package kafka_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/Loopring/relay-lib/kafka"
-	"github.com/Loopring/relay-lib/log"
+	"github.com/expanse-org/relay-lib/kafka"
+	"github.com/expanse-org/relay-lib/log"
 	"go.uber.org/zap"
 	"testing"
 	"time"
