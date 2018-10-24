@@ -31,8 +31,8 @@ const (
 	NewOrder = "NewOrder"
 	NewOrderForBroadcast = "NewOrderForBroadcast"
 
-	WethDeposit         = "WethDeposit"
-	WethWithdrawal      = "WethWithdrawal"
+	WexpDeposit         = "WexpDeposit"
+	WexpWithdrawal      = "WexpWithdrawal"
 	Approve             = "Approve"
 	Transfer            = "Transfer"
 	EthTransfer         = "EthTransfer"

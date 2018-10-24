@@ -43,10 +43,10 @@ func TestGetCustomTokenList(t *testing.T) {
 	marketutil.SupportTokens = make(map[string]types.Token)
 	marketutil.AllTokens = make(map[string]types.Token)
 	funToken := types.Token{Protocol: common.HexToAddress("0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b"), Decimals: big.NewInt(1e8), Symbol: "FUN"}
-	wethToken := types.Token{Protocol: common.HexToAddress("0x2956356cD2a2bf3202F771F50D3D14A367b48070"), Decimals: big.NewInt(1e18), Symbol: "WETH"}
+	wexpToken := types.Token{Protocol: common.HexToAddress("0x2956356cD2a2bf3202F771F50D3D14A367b48070"), Decimals: big.NewInt(1e18), Symbol: "WEXP"}
 	marketutil.SupportTokens["FUN"] = funToken
 	marketutil.AllTokens["FUN"] = funToken
-	marketutil.AllTokens["WETH"] = wethToken
+	marketutil.AllTokens["WEXP"] = wexpToken
 
 	cache.NewCache(redis.RedisOptions{Host: "13.112.62.24", Port: "6379", Password: "", IdleTimeout: 20, MaxIdle: 50, MaxActive: 50})
 
